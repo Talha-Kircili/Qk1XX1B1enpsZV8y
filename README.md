@@ -22,7 +22,7 @@
   telnet security-challenge.bmw-carit.de 21042
   ```
 
-- server responds with three certificates to chose from:  
+- server responds with three certificates to choose from:  
   
   ``` 
   0) <Name(C=DE,ST=Baden-Wuerttemberg,L=Ulm,O=Fabulous Mobility\, Inc,OU=Marketing)>  

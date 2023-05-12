@@ -60,7 +60,7 @@ When a small encryption **exponent e** is used and if the **message m** < **modu
 ### certificate 1\): message m < n/3
 &nbsp; → vulnerable
 
-### certificate 2\): modulus n/3 < message m
+### certificate 2\): message m > n/3
 &nbsp; → not vulnerable
 
 # Flag: Obtaining the api token  
